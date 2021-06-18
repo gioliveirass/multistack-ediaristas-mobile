@@ -36,7 +36,7 @@ Abaixo é possível vizualizar um gif que apresenta as telas da aplicação e a 
 
 ## <a id="iniciando"> 🚀 Como rodar </a>
 
-Para que o projeto funcione em sua máquina, você precisa ter instalado o [Node.js](https://nodejs.org/en/) e o [Python](https://www.python.org/downloads/). Também é necessário instalar o [Git](https://git-scm.com/) para clonar o repositório. Se já tiver feito as instalações necessárias, abra o terminal e execute os comando abaixo:
+Para que o projeto funcione em sua máquina, você precisa ter instalado o [Node.js](https://nodejs.org/en/). Também é necessário instalar o [Git](https://git-scm.com/) para clonar o repositório. Se já tiver feito as instalações necessárias, abra o terminal e execute os comando abaixo:
 
 ```
 # Clone o repositório e abra a pasta /multistack-ediaristas-mobile
